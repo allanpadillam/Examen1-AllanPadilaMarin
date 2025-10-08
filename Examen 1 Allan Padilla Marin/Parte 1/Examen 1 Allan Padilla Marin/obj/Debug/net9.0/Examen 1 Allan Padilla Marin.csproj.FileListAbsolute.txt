@@ -1,0 +1,14 @@
+D:\Repos\Progra 2\Examen 1 Allan Padilla Marin\Examen 1 Allan Padilla Marin\obj\Debug\net9.0\Examen 1 Allan Padilla Marin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Progra 2\Examen 1 Allan Padilla Marin\Examen 1 Allan Padilla Marin\obj\Debug\net9.0\Examen 1 Allan Padilla Marin.AssemblyInfoInputs.cache
+D:\Repos\Progra 2\Examen 1 Allan Padilla Marin\Examen 1 Allan Padilla Marin\obj\Debug\net9.0\Examen 1 Allan Padilla Marin.AssemblyInfo.cs
+D:\Repos\Progra 2\Examen 1 Allan Padilla Marin\Examen 1 Allan Padilla Marin\obj\Debug\net9.0\Examen 1 Allan Padilla Marin.csproj.CoreCompileInputs.cache
+D:\Repos\Progra 2\Examen 1 Allan Padilla Marin\Examen 1 Allan Padilla Marin\bin\Debug\net9.0\Examen 1 Allan Padilla Marin.exe
+D:\Repos\Progra 2\Examen 1 Allan Padilla Marin\Examen 1 Allan Padilla Marin\bin\Debug\net9.0\Examen 1 Allan Padilla Marin.deps.json
+D:\Repos\Progra 2\Examen 1 Allan Padilla Marin\Examen 1 Allan Padilla Marin\bin\Debug\net9.0\Examen 1 Allan Padilla Marin.runtimeconfig.json
+D:\Repos\Progra 2\Examen 1 Allan Padilla Marin\Examen 1 Allan Padilla Marin\bin\Debug\net9.0\Examen 1 Allan Padilla Marin.dll
+D:\Repos\Progra 2\Examen 1 Allan Padilla Marin\Examen 1 Allan Padilla Marin\bin\Debug\net9.0\Examen 1 Allan Padilla Marin.pdb
+D:\Repos\Progra 2\Examen 1 Allan Padilla Marin\Examen 1 Allan Padilla Marin\obj\Debug\net9.0\Examen 1 Allan Padilla Marin.dll
+D:\Repos\Progra 2\Examen 1 Allan Padilla Marin\Examen 1 Allan Padilla Marin\obj\Debug\net9.0\refint\Examen 1 Allan Padilla Marin.dll
+D:\Repos\Progra 2\Examen 1 Allan Padilla Marin\Examen 1 Allan Padilla Marin\obj\Debug\net9.0\Examen 1 Allan Padilla Marin.pdb
+D:\Repos\Progra 2\Examen 1 Allan Padilla Marin\Examen 1 Allan Padilla Marin\obj\Debug\net9.0\Examen 1 Allan Padilla Marin.genruntimeconfig.cache
+D:\Repos\Progra 2\Examen 1 Allan Padilla Marin\Examen 1 Allan Padilla Marin\obj\Debug\net9.0\ref\Examen 1 Allan Padilla Marin.dll

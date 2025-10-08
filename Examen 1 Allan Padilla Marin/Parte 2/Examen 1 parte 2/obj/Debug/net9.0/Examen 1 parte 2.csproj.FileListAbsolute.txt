@@ -1,0 +1,14 @@
+D:\Repos\Progra 2\Examen 1 parte 2\Examen 1 parte 2\obj\Debug\net9.0\Examen 1 parte 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Progra 2\Examen 1 parte 2\Examen 1 parte 2\obj\Debug\net9.0\Examen 1 parte 2.AssemblyInfoInputs.cache
+D:\Repos\Progra 2\Examen 1 parte 2\Examen 1 parte 2\obj\Debug\net9.0\Examen 1 parte 2.AssemblyInfo.cs
+D:\Repos\Progra 2\Examen 1 parte 2\Examen 1 parte 2\obj\Debug\net9.0\Examen 1 parte 2.csproj.CoreCompileInputs.cache
+D:\Repos\Progra 2\Examen 1 parte 2\Examen 1 parte 2\bin\Debug\net9.0\Examen 1 parte 2.exe
+D:\Repos\Progra 2\Examen 1 parte 2\Examen 1 parte 2\bin\Debug\net9.0\Examen 1 parte 2.deps.json
+D:\Repos\Progra 2\Examen 1 parte 2\Examen 1 parte 2\bin\Debug\net9.0\Examen 1 parte 2.runtimeconfig.json
+D:\Repos\Progra 2\Examen 1 parte 2\Examen 1 parte 2\bin\Debug\net9.0\Examen 1 parte 2.dll
+D:\Repos\Progra 2\Examen 1 parte 2\Examen 1 parte 2\bin\Debug\net9.0\Examen 1 parte 2.pdb
+D:\Repos\Progra 2\Examen 1 parte 2\Examen 1 parte 2\obj\Debug\net9.0\Examen 1 parte 2.dll
+D:\Repos\Progra 2\Examen 1 parte 2\Examen 1 parte 2\obj\Debug\net9.0\refint\Examen 1 parte 2.dll
+D:\Repos\Progra 2\Examen 1 parte 2\Examen 1 parte 2\obj\Debug\net9.0\Examen 1 parte 2.pdb
+D:\Repos\Progra 2\Examen 1 parte 2\Examen 1 parte 2\obj\Debug\net9.0\Examen 1 parte 2.genruntimeconfig.cache
+D:\Repos\Progra 2\Examen 1 parte 2\Examen 1 parte 2\obj\Debug\net9.0\ref\Examen 1 parte 2.dll

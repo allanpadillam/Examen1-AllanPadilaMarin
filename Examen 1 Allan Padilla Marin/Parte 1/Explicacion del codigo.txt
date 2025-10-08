@@ -1,0 +1,34 @@
+1. Describa brevemente (5-6 líneas} el problema que resuelve el sistema dentro de la
+asociación.
+
+El sistema funciona como método de control, organizando así los pedidos y ventas dentro de la soda de AsoHispa.
+Este programa tiene como objetivo automatizar las tareas de registro manuales, ayudando así a reducir los errores en montos, cantidades o estados de los pedidos.
+Con esta consola puede registrar de forma rápida los productos activos, finalizados y cancelados, evitando confusiones y permitiendo generar reportes.
+Esto facilitará la supervisión diaria de las operaciones, asegurando un mejor proceso.
+
+2. Diseñe el modelo de datos
+Código en Github
+
+3. Dibuje o describa como se relaciona el índice del vector con la posici6n de la matriz (que
+representa cada numero).
+
+
+Relación entre el índice del vector y la matriz
+
+El vector productos[] contiene el catálogo de productos de la soda, donde cada producto tiene un índice único del 0 al 9.
+
+La matriz transacciones[,] registra los pedidos. Cada fila representa un pedido y cada columna tiene un dato específico:
+
+Columna 0: índice del producto (apunta al vector)
+
+Columna 1: cantidad pedida
+
+Columna 2: estado de la transacción (0 = cancelado, 1 = activo, 2 = finalizado)
+
+4. Justifique por que usar una matriz y un vector es suficiente en lugar de crear una lista o
+clase compleja.
+
+Para este programa utilizar un vector y una matriz es suficiente ya que es un programa pequeno, el vector guardara el catalogo de los productos y la matriz registrara los peidos cantidad y estados.
+Con la matriz podemos referir al vector para identificar rapidamente cada producto sin repetir los datos.
+Esta es una forma simple de tratar este tipo de proyectos pequenos sin necesidad de listas o clases complejas.
+

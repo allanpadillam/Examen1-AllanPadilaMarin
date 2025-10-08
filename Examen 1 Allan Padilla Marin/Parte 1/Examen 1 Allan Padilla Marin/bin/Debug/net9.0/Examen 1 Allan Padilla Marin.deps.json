@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Examen 1 Allan Padilla Marin/1.0.0": {
+        "runtime": {
+          "Examen 1 Allan Padilla Marin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Examen 1 Allan Padilla Marin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
